@@ -1,0 +1,15 @@
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\obj\Debug\net10.0\ExtratorVarejoOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\obj\Debug\net10.0\ExtratorVarejoOnline.AssemblyInfoInputs.cache
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\obj\Debug\net10.0\ExtratorVarejoOnline.AssemblyInfo.cs
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\obj\Debug\net10.0\ExtratorVarejoOnline.csproj.CoreCompileInputs.cache
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\obj\Debug\net10.0\ExtratorVarejoOnline.sourcelink.json
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\bin\Debug\net10.0\ExtratorVarejoOnline.exe
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\bin\Debug\net10.0\ExtratorVarejoOnline.deps.json
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\bin\Debug\net10.0\ExtratorVarejoOnline.runtimeconfig.json
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\bin\Debug\net10.0\ExtratorVarejoOnline.dll
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\bin\Debug\net10.0\ExtratorVarejoOnline.pdb
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\obj\Debug\net10.0\ExtratorVarejoOnline.dll
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\obj\Debug\net10.0\refint\ExtratorVarejoOnline.dll
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\obj\Debug\net10.0\ExtratorVarejoOnline.pdb
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\obj\Debug\net10.0\ExtratorVarejoOnline.genruntimeconfig.cache
+C:\VS Studio\rmouralima\ExtratorVarejoOnline\obj\Debug\net10.0\ref\ExtratorVarejoOnline.dll
