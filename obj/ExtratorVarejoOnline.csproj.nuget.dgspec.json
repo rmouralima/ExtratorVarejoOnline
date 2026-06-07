@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moura\\source\\repos\\rmouralima\\ExtratorVarejoOnline\\ExtratorVarejoOnline.csproj": {}
+    "C:\\VS Studio\\rmouralima\\ExtratorVarejoOnline\\ExtratorVarejoOnline.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moura\\source\\repos\\rmouralima\\ExtratorVarejoOnline\\ExtratorVarejoOnline.csproj": {
+    "C:\\VS Studio\\rmouralima\\ExtratorVarejoOnline\\ExtratorVarejoOnline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moura\\source\\repos\\rmouralima\\ExtratorVarejoOnline\\ExtratorVarejoOnline.csproj",
+        "projectUniqueName": "C:\\VS Studio\\rmouralima\\ExtratorVarejoOnline\\ExtratorVarejoOnline.csproj",
         "projectName": "ExtratorVarejoOnline",
-        "projectPath": "C:\\Users\\moura\\source\\repos\\rmouralima\\ExtratorVarejoOnline\\ExtratorVarejoOnline.csproj",
+        "projectPath": "C:\\VS Studio\\rmouralima\\ExtratorVarejoOnline\\ExtratorVarejoOnline.csproj",
         "packagesPath": "C:\\Users\\moura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moura\\source\\repos\\rmouralima\\ExtratorVarejoOnline\\obj\\",
+        "outputPath": "C:\\VS Studio\\rmouralima\\ExtratorVarejoOnline\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\moura\\source\\repos\\rmouralima\\ExtratorVarejoOnline\\",
+  "WorkspaceRootPath": "C:\\VS Studio\\rmouralima\\ExtratorVarejoOnline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B902C16B-8383-49F6-9175-287074314196}|ExtratorVarejoOnline.csproj|c:\\users\\moura\\source\\repos\\rmouralima\\extratorvarejoonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B902C16B-8383-49F6-9175-287074314196}|ExtratorVarejoOnline.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67E3AB4D-ECE0-4E7E-86BB-1495861ECD60}|ExtratorVarejoOnline.csproj|c:\\vs studio\\rmouralima\\extratorvarejoonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E3AB4D-ECE0-4E7E-86BB-1495861ECD60}|ExtratorVarejoOnline.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\moura\\source\\repos\\rmouralima\\ExtratorVarejoOnline\\Program.cs",
+              "DocumentMoniker": "C:\\VS Studio\\rmouralima\\ExtratorVarejoOnline\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\moura\\source\\repos\\rmouralima\\ExtratorVarejoOnline\\Program.cs",
+              "ToolTip": "C:\\VS Studio\\rmouralima\\ExtratorVarejoOnline\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

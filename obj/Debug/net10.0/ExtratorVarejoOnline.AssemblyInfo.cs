@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtratorVarejoOnline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f538b00ffb2784e038e1ee5766efbf11098980f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df10a3f319d99b558aaa591dc9c915fe58a68413")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtratorVarejoOnline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtratorVarejoOnline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
